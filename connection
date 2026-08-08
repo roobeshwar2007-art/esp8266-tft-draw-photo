@@ -1,1 +1,12 @@
+TFT (ILI9341) ↔ ESP8266 (NodeMCU/Wemos D1 mini) wiring:
 
+TFT Pin	ESP8266 Pin	GPIO
+VCC	3.3V	-
+GND	GND	-
+CS	D8	GPIO15
+RESET	D4	GPIO2
+DC	D3	GPIO0
+MOSI (SDI)	D7	GPIO13
+SCK	D5	GPIO14
+LED	3.3V	-
+MISO (SDO)	D6	GPIO12 (optional, not used for drawing)
