@@ -1,5 +1,4 @@
-# esp8266-tft-draw-photo
-Web-based live drawing and photo display on ILI9341 TFT via ESP8266 — draw from any browser or send a photo, mirrors in real-time over WebSocket. Self-hosted, no cloud. By R Track Creation.
+
 # ESP8266 TFT Draw & Photo Display
 
 Draw live from any web browser and see it mirrored in real-time on an ILI9341 TFT display via ESP8266. You can also send a photo from your browser and it will be displayed full-screen on the TFT. No cloud dependency — everything runs locally over WiFi.
